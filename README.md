@@ -5,16 +5,10 @@
 
 ## 演示图例  
 github.io的示例  
-https://zixiwangluo.github.io/wxdh/  
+https://vvdevpro.github.io/wxdh/
 
 ## 源码来源  
 来自某源码采集站，非本人原创，所以技术问题不要来问我，我也不会，能用就行  
-
-### 1.在线微信聊天生成器，抖音微信聊天搞笑视频制作神器  
-出处: 吾爱破解论坛 https://www.52pojie.cn/thread-1716903-1-1.html  
-
-### 2.暂无，后面慢慢挖  
-如题，有好的作品可以提个issue给我，我会继续补充  
 
 ## 搭建方法  
 fork本项目，然后进入github.io自行创建page项目，也就是github page，这只是个html没有php所以可以静态托管，也可以直接上传到虚拟主机或者服务器，然后版权改成自己的就行  
